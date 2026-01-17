@@ -1,0 +1,8 @@
+*
+!.gitignore 
+!lab*/
+!lab*/ex*/
+!**.md
+!**.c
+!**.h
+

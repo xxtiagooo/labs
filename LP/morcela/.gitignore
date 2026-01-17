@@ -1,0 +1,9 @@
+*
+!.gitignore 
+!.gitlab-ci.yml
+!dia*/
+!dia*/*/
+!**.md
+!**.pl
+!**.jpg
+
